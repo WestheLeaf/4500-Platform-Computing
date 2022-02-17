@@ -1,1 +1,22 @@
-
+{
+  "first-name": "Wesley",
+  "last-name": "Feenstra",
+  "address": "5500 University Pkwy, San Bernardino, CA 92407",
+  "phone": "(123)456-7890",
+  "email": "wesley@mail.com",
+  "introduction": "Hi, my name is Wesley :)",
+  "experience":[
+    {
+      "title":"WEB DEVELOPER",
+      "employer":"CSUSB",
+      "period":"March 2018 - Present",
+      "description":"I worked for CSUSB"
+    },
+    {
+      "title":"APPLICATION DEVELOPER",
+      "employer":"CSUSB",
+      "period":"March 2018 - 2021",
+      "description":"Also worked for CSUSB"
+    }
+  ]
+}
